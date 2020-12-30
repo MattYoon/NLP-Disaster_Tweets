@@ -3,7 +3,7 @@ I test out multiple NLP models, and their effectiveness against the Kaggle Disas
 - Kaggle Disaster Tweets: https://www.kaggle.com/c/nlp-getting-started/data?select=train.csv
 
 ### 1. LSTM without pre-trained weights
-- LSTM and Embeddings trained completely from scratch
+- LSTM and embeddings trained completely from scratch
 - accuracy score: 0.79282
 
 ### 2. LSTM with pre-trained GLoVe Embeddings
