@@ -12,6 +12,6 @@ I test out multiple NLP models, and their effectiveness against the Kaggle Disas
 - accuracy score: 0.81366
 
 ### 3. FFNN with pre-trained ELMo Embeddings
-- ELMo with only one FFNN hidden layer, pre-trained ELMo embeddings
+- FFNN with one hidden layer, pre-trained ELMo embeddings
 - ELMo: http://vectors.nlpl.eu/repository/
 - accuracy score: 0.81703
