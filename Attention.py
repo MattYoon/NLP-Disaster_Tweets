@@ -1,7 +1,4 @@
-# Encoder part of https://blog.tensorflow.org/2019/05/transformer-chatbot-tutorial-with-tensorflow-2.html
-# Retyped by me. Doing so, helped me understand the fundamentals of Transformer models.
-# I added my undestandings as comments
-
+# Reference: https://blog.tensorflow.org/2019/05/transformer-chatbot-tutorial-with-tensorflow-2.html
 
 import tensorflow as tf
 import numpy as np
