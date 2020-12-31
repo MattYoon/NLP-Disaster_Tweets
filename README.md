@@ -20,3 +20,8 @@ I test out multiple NLP models, and their effectiveness against the Kaggle Disas
 - CNN using three different filter sizes and average pooling, pre-trained ELMo embeddings
 - ELMo: http://vectors.nlpl.eu/repository/
 - accuracy score: 0.82531
+
+### 5. Multi-Head Self-Attention without pre-trained weights
+- Self-Attention classifier trained completely from scratch
+- Reference: https://blog.tensorflow.org/2019/05/transformer-chatbot-tutorial-with-tensorflow-2.html
+- accuracy score: 0.78639
