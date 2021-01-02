@@ -25,3 +25,8 @@ I test out multiple NLP models, and their effectiveness against the Kaggle Disas
 - Single Encoder layer trained completely from scratch
 - Reference: https://blog.tensorflow.org/2019/05/transformer-chatbot-tutorial-with-tensorflow-2.html
 - accuracy score: 0.78639
+
+### 6. BERT
+- BERT Fine-Tuned for classification with FFNN
+- BERT: https://huggingface.co/transformers/model_doc/bert.html
+- accuracy score: 0.83665
