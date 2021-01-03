@@ -27,6 +27,11 @@ I test out multiple NLP models, and their effectiveness against the Kaggle Disas
 - accuracy score: 0.78639
 
 ### 6. BERT
-- BERT Fine-Tuned for classification with FFNN
+- BERT Fine-Tuned for classification
 - BERT: https://huggingface.co/transformers/model_doc/bert.html
 - accuracy score: 0.83665
+
+### 7. ELECTRA
+- ELECTRA Fine-Tuned for classification
+- ELECTRA: https://huggingface.co/transformers/model_doc/electra.html
+- accuracy score: 0.83879
