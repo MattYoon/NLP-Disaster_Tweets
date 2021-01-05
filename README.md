@@ -2,8 +2,13 @@
 I test out multiple NLP models, and their effectiveness against the Kaggle Disaster Tweets dataset.
 - Kaggle Disaster Tweets: https://www.kaggle.com/c/nlp-getting-started/leaderboard
 - Best Score: 0.84737
-- 12th place of 1232 entries(not considering fake submissions with over 95% accuracy), Top 0.01 percent (Jan. 06. 2021)
+- Top 0.01 percent, 12th place of 1232 entries (not considering fake submissions with over 95% accuracy) Jan. 06. 2021
+
+
+
 ![alt text](https://github.com/MattYoon/NLP-Disaster_Tweets/blob/main/Leader_board.JPG?raw=true)
+
+
 
 ### 1. LSTM without pre-trained weights
 - LSTM and embeddings trained completely from scratch
