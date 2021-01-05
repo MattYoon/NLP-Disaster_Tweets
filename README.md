@@ -35,3 +35,7 @@ I test out multiple NLP models, and their effectiveness against the Kaggle Disas
 - ELECTRA Fine-Tuned for classification
 - ELECTRA: https://huggingface.co/transformers/model_doc/electra.html
 - accuracy score: 0.83879
+
+### 8. ELECTRA + GLoVe
+- ELECTRA used on the actual Tweets, GLoVe used on the location of the Tweets
+- accuracy score: 0.84737
