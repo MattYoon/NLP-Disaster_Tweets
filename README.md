@@ -8,16 +8,18 @@ I test out multiple NLP models, and their effectiveness against the Kaggle Disas
 
 ![alt text](https://github.com/MattYoon/NLP-Disaster_Tweets/blob/main/Leader_board2.jpg?raw=true)  
 
+### Overview  
+
 Model | Submission Score (Acc)
 --- | --- 
-LSTM | 0.792
-LSTM, GLoVe | 0.813
-FFNN, ELMo | 0.817
-CNN, ELMo | 0.825
-Self-Attention | 0.786
-BERT | 0.836
-ELECTRA | 0.838
-ELECTRA, GLoVe | 0.847
+LSTM | 0.79282
+LSTM, GLoVe | 0.81366
+FFNN, ELMo | 0.81703
+CNN, ELMo | 0.82531
+Self-Attention | 0.78639
+BERT | 0.83665
+ELECTRA | 0.83879
+ELECTRA, GLoVe | 0.84737
 
 
 
