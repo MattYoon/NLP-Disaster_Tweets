@@ -1,8 +1,8 @@
 # NLP-Disaster_Tweets
 I test out multiple NLP models, and their effectiveness against the Kaggle Disaster Tweets dataset.
 - Kaggle Disaster Tweets: https://www.kaggle.com/c/nlp-getting-started/leaderboard
-- Best Score: 0.84737, **Top 1%**
-- 17th place of 1232 entries (not considering fake submissions with over 95% accuracy) Jan. 06. 2021  
+- Best Score: 0.84737
+- **Top 1%** 17th place of 1232 entries (not considering fake submissions with over 95% accuracy) Jan. 06. 2021  
 
 
 
